@@ -115,25 +115,20 @@ Le rôle du switch  est de transmettre les paquets dans un même réseau ce qui 
 Le rôle du routeur est de transmettre des les paquets entre différents réseau. Il a donc tenté de le faire mais ne connaissait pas de chemin vers le réseau 
 10.11.0.0.16.
 
-#### FICHIER 3
+#### FICHIER 3  
 
-##### QUESTION 21
+##### QUESTION 21  
 
-10.10.4.2 : PC4
-172.16.5.253 : Interface du deuxième routeur R2
+10.10.4.2 : PC4  
+172.16.5.253 : Interface du deuxième routeur R2  
 
-##### QUESTION 22  
+##### QUESTION 22    
 
-CA:01:DA:D2:00:1C  : MAC de l'interface du router r1 dans le réseau 10.12.2.0/24
-CA:03:9E:EF:00:38  : MAC de l'interface du router r2 dans le réseau 10.12.2.0/24
+CA:01:DA:D2:00:1C  : MAC de l'interface du router r1 dans le réseau 10.12.2.0/24  
+CA:03:9E:EF:00:38  : MAC de l'interface du router r2 dans le réseau 10.12.2.0/24  
 
-##### QUESTION 23
+##### QUESTION 23  
 
-L'enregistrement est faites sur le routeur R1
+L'enregistrement est faites sur le routeur R1  
 
-
-
-
-
-Modifier les configurations de chaque ordinateur pour les passer en dynamique.  
 
