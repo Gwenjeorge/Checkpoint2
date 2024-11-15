@@ -45,17 +45,19 @@ Broadcast : 10.11.255.255
 
 ##### QUESTION 7  
 
-Les PC1, PC3, PC4 vont tous pouvoir communiquer car appartiennent au même réseau 10.10.0.0/16.  
-En revanche le PC2 et le PC5, appartenant respectivement aux réseaux 10.11.0.0/16 et 10.10.0.0/15, ne peuvent communiquer avec les autres sans un dispositif de routage (que le switch n'apporte pas dans le cas présent)  
+Les PC1, PC3, PC4, PC5 vont tous pouvoir communiquer car appartiennent au même réseau 10.10.0.0/15.  
+En revanche le PC2, appartenant au réseau 10.11.0.0/15 ne peut communiquer qu'avec le PC5 qui est dans le même réseau englobant. Il  ne peut pas communiquer avec le PC1, PC3 et PC4.  
 
 ##### QUESTION 8  
 
-Seul les PC1, PC3 et PC4 pourront utiliser la passerelle du routeur dans le même réseau et pourront donc traverser le routeur.  
+Seul les PC1, PC3, PC4 et PC5 pourront utiliser la passerelle du routeur dans le même réseau et pourront donc traverser le routeur.  
 
 ##### QUESTION 9  
+
 Aucune incidence  
 
 ##### QUESTION 10  
+
 Installer un serveur DHCP (sur le routeur par exemple ou sur un des postes).  
 Modifier les configurations de chaque ordinateur pour les passer en dynamique.  
 
