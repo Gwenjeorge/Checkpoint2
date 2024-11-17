@@ -17,7 +17,7 @@ Dans la partie $UserInfo ajouter un champ Description:
             Name                 = "$Prenom.$Nom"
             FullName             = "$Prenom.$Nom"
 	    Description          = $Description
-            Password             = $Password
+	Password             = $Password
             AccountNeverExpires  = $true
             PasswordNeverExpires = $false
         }
