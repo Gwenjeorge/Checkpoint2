@@ -1,6 +1,6 @@
 ### Exercice 2 .
 
-Lien complet du script modifi" : [Script](./AddLocalUsers.ps1)
+Lien complet du script modifié : [Script](./AddLocalUsers.ps1)
 
 ##### QUESTION 1  
 
